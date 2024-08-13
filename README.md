@@ -1,7 +1,7 @@
 # Heart-Disease-Project
 
-**(I) Heart_Disease_scikit-learn.ipynb**
-<br /> Comparison of classification methods using heart disease prediction dataset from Kaggle
+**(I) Heart_Disease_scikit-learn.ipynb** <br /> 
+Comparison of classification methods using heart disease prediction dataset from Kaggle
 https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
 
 (1) Logistic Regression (Full Model) <br />
