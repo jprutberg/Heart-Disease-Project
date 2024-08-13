@@ -13,3 +13,5 @@ https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
 (7) Support Vector Machine (SVM) <br />
 (8) K Nearest Neighbors (KNN) <br />
 (9) Kernel Logistic Regression
+
+**(II) Heart_Disease_PyTorch.ipynb**
