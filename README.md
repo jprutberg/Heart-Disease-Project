@@ -1,6 +1,6 @@
 # Heart Disease Project
 
-**(I) Heart_Disease_scikit-learn.ipynb** <br /> 
+**Heart_Disease_scikit-learn.ipynb** <br /> 
 Comparison of classification methods using heart disease prediction dataset from Kaggle
 https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
 
@@ -14,6 +14,6 @@ https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
 (8) K Nearest Neighbors (KNN) <br />
 (9) Kernel Logistic Regression
 
-**(II) Heart_Disease_PyTorch.ipynb** <br />
+**Heart_Disease_PyTorch.ipynb** <br />
 Neural Networks using heart disease prediction dataset from Kaggle <br />
 https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
