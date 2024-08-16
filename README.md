@@ -1,7 +1,7 @@
 # Machine Learning for Heart Disease Risk Prediction
 
 **Introduction** <br />
-This project investigates the prediction of heart disease using a dataset from Kaggle by comparing the performance of various machine learning models, including a custom neural network implemented in PyTorch. The primary goal was to understand which model architectures and hyperparameters yield the best performance and to provide insights into the strengths and limitations of each approach in the context of healthcare. <br />
+This project investigates the prediction of heart disease using the Kaggle dataset Heart_Disease.csv by comparing the performance of various machine learning models, including a custom neural network implemented in PyTorch. The primary goal was to understand which model architectures and hyperparameters yield the best performance and to provide insights into the strengths and limitations of each approach in the context of healthcare. <br />
 
 **Purpose** <br />
 Heart disease is a leading cause of mortality worldwide, and early detection is crucial for improving patient outcomes. With the growing availability of patient data, there is an opportunity to leverage machine learning and neural networks to develop predictive models that can assist clinicians in making more informed decisions. This project was undertaken to explore the potential of these models in accurately predicting heart disease, with a particular focus on how different algorithms perform and how their predictions can be understood and trusted by healthcare professionals. <br />
@@ -41,7 +41,7 @@ The best-performing model, after hyperparameter tuning, was a neural network wit
 
 These findings suggest that while complex models like SVM and Kernel Logistic Regression offer high performance, simpler models like Logistic Regression or LDA often provide similar results with greater interpretability and lower computational cost. In a clinical setting, where interpretability is crucial, traditional methods like Logistic Regression may be preferable unless significantly improved performance justifies the additional complexity. <br />
 
-The dataset is available in the CSV file Heart_Disease.csv or at https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
+The dataset is available at https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
 
 
 
