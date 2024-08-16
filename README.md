@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Heart Disease Project
 
 **(I) Heart_Disease_scikit-learn.ipynb** <br /> 
 Comparison of classification methods using heart disease prediction dataset from Kaggle
