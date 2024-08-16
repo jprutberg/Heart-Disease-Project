@@ -16,4 +16,7 @@ https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
 
 **Heart_Disease_PyTorch.ipynb** <br />
 Neural Networks using heart disease prediction dataset from Kaggle <br />
-https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
+https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data <br />
+
+**Heart_Disease.csv** <br />
+Dataset used for this analysis
