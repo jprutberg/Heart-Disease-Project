@@ -1,4 +1,4 @@
-# Heart Disease Project
+# Machine Learning for Heart Disease Risk Prediction
 
 This project investigates the prediction of heart disease using a dataset from Kaggle by comparing the performance of various machine learning models, including a custom neural network implemented in PyTorch. The primary goal was to understand which model architectures and hyperparameters yield the best performance and to provide insights into the strengths and limitations of each approach in the context of healthcare. <br />
 
