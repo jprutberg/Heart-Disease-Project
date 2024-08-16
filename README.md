@@ -17,7 +17,3 @@ https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
 **(II) Heart_Disease_PyTorch.ipynb**
 Neural Networks using heart disease prediction dataset from Kaggle
 https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
-
-**(III) Cancer_Classification_TensorFlow.ipynb**
-eural Networks using cancer classification dataset from Kaggle
-https://www.kaggle.com/datasets/sahilnbajaj/cancer-classification
