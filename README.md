@@ -49,7 +49,7 @@ This section of the project is structured as follows: <br />
 (3) Model Comparison: A comprehensive comparison of model metrics including accuracy, precision, recall, F1-score, and AUC is presented through visualizations. <br />
 (4) Conclusions and Recommendations: Based on the comparative analysis, recommendations for the most suitable models in different scenarios are provided. <br />
 
-The dataset is available at https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data or in the CSV file Heart_Disease.csv
+The dataset is available in the CSV file Heart_Disease.csv or at https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
 
 
 
