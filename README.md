@@ -1,4 +1,4 @@
-# Heart Disease Project
+# Machine Learning Projects
 
 **(I) Heart_Disease_scikit-learn.ipynb** <br /> 
 Comparison of classification methods using heart disease prediction dataset from Kaggle
@@ -15,3 +15,9 @@ https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
 (9) Kernel Logistic Regression
 
 **(II) Heart_Disease_PyTorch.ipynb**
+Neural Networks using heart disease prediction dataset from Kaggle
+https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
+
+**(III) Cancer_Classification_TensorFlow.ipynb**
+eural Networks using cancer classification dataset from Kaggle
+https://www.kaggle.com/datasets/sahilnbajaj/cancer-classification
