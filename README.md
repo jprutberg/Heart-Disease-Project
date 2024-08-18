@@ -1,7 +1,7 @@
 # Machine Learning for Heart Disease Risk Prediction
 
 **Introduction** <br />
-This project investigates the prediction of heart disease by comparing the performance of various machine learning models, including a custom neural network implemented using Python's PyTorch library. The primary goal was to understand which model architectures and hyperparameters yield the best performance and to provide insights into the strengths and limitations of each approach in the context of healthcare. Eight models were constructed using scikit-learn are discussed in the Findings and Conclusions section below. <br />
+This project investigates the prediction of heart disease by comparing the performance of various machine learning models, including a feedforward neural network implemented using Python's PyTorch library. The primary goal was to understand which model architectures and hyperparameters yield the best performance and to provide insights into the strengths and limitations of each approach in the context of healthcare. Eight models were constructed using scikit-learn are discussed in the Findings and Conclusions section below. <br />
 
 **Purpose** <br />
 Heart disease is a leading cause of mortality worldwide, and early detection is crucial for improving patient outcomes. With the growing availability of patient data, there is an opportunity to leverage machine learning and neural networks to develop predictive models that can assist clinicians in making more informed decisions. This project was undertaken to explore the potential of these models in accurately predicting heart disease, with a particular focus on how different algorithms perform and how their predictions can be understood and trusted by healthcare professionals. <br />
