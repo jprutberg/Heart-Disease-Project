@@ -24,9 +24,6 @@ Comprehensive evaluation of the model's performance was performed using metrics 
 ### Comparison with Other Models:
 The neural network's performance was compared against traditional machine learning models implemented using `scikit-learn`, including Logistic Regression, Decision Tree, Naive Bayes, LDA, QDA, SVM, KNN, and Kernel Logistic Regression.
 
-### Conclusions:
-The project discusses the implications of the findings, particularly the trade-offs between model accuracy and interpretability, and provides recommendations for future work in this area.
-
 ## Final Model
 The best-performing model, after hyperparameter tuning, was a neural network with a test accuracy of 86.89%. Despite its high accuracy, the neural network's lack of interpretability suggests that in clinical settings, more interpretable models like Logistic Regression might be preferable unless the additional accuracy justifies the complexity.
 
