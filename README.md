@@ -16,13 +16,13 @@ These findings underscore the importance of model selection in healthcare applic
 Initial analysis of the dataset was conducted to understand the distribution of features and the relationships between them. The data was then normalized and split into training and test sets. <br />
 
 ### Model Development:
-A neural network was implemented using PyTorch, with detailed exploration of different architectures and hyperparameter tuning via GridSearchCV. <br />
+A neural network was implemented using `PyTorch`, with detailed exploration of different architectures and hyperparameter tuning via GridSearchCV. <br />
 
 ### Model Evaluation:
 Comprehensive evaluation of the model's performance was performed using metrics such as accuracy, precision, recall, and ROC-AUC. Visual tools like confusion matrices, learning curves, and calibration curves were used to support the evaluation. <br />
 
 ### Comparison with Other Models:
-The neural network's performance was compared against traditional machine learning models implemented using scikit-learn, including Logistic Regression, Decision Tree, Naive Bayes, LDA, QDA, SVM, KNN, and Kernel Logistic Regression. <br />
+The neural network's performance was compared against traditional machine learning models implemented using `scikit-learn`, including Logistic Regression, Decision Tree, Naive Bayes, LDA, QDA, SVM, KNN, and Kernel Logistic Regression. <br />
 
 ### Conclusions:
 The project discusses the implications of the findings, particularly the trade-offs between model accuracy and interpretability, and provides recommendations for future work in this area. <br />
