@@ -30,7 +30,7 @@ The project discusses the implications of the findings, particularly the trade-o
 ## Final Model
 The best-performing model, after hyperparameter tuning, was a neural network with a test accuracy of 86.89%. Despite its high accuracy, the neural network's lack of interpretability suggests that in clinical settings, more interpretable models like Logistic Regression might be preferable unless the additional accuracy justifies the complexity.
 
-## Findings/Conclusions
+## Findings and Conclusions
 • Logistic Regression: Provided strong performance with high accuracy and AUC scores, making it a reliable and interpretable option. <br />
 • Decision Tree: Struggled with overfitting, leading to lower overall performance. <br />
 • Naive Bayes and LDA: Both performed well, with LDA slightly outperforming Naive Bayes. <br />
