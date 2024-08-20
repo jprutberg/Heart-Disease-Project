@@ -41,7 +41,7 @@ The best-performing model, after hyperparameter tuning, was a neural network wit
 
 These findings suggest that while complex models like SVM and Kernel Logistic Regression offer high performance, simpler models like Logistic Regression or LDA often provide similar results with greater interpretability and lower computational cost. In a clinical setting, where interpretability is crucial, traditional methods like Logistic Regression may be preferable unless significantly improved performance justifies the additional complexity. <br />
 
-The CSV of the dataset is located in Heart_Disease.csv, and the entire dataset is available at https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
+The dataset is available at https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
 
 
 
