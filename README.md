@@ -31,13 +31,13 @@ The project discusses the implications of the findings, particularly the trade-o
 The best-performing model, after hyperparameter tuning, was a neural network with a test accuracy of 86.89%. Despite its high accuracy, the neural network's lack of interpretability suggests that in clinical settings, more interpretable models like Logistic Regression might be preferable unless the additional accuracy justifies the complexity.
 
 ## Findings and Conclusions
-• Logistic Regression: Provided strong performance with high accuracy and AUC scores, making it a reliable and interpretable option.
-• Decision Tree: Struggled with overfitting, leading to lower overall performance.
-• Naive Bayes and LDA: Both performed well, with LDA slightly outperforming Naive Bayes.
-• QDA: Handled non-linear relationships better than LDA but with reduced interpretability.
-• SVM: High accuracy and robustness, especially in high-dimensional spaces.
-• KNN: Performed less well, highlighting limitations in higher dimensions.
-• Kernel Logistic Regression: Computationally intensive and did not outperform simpler models.
+1. Logistic Regression: Provided strong performance with high accuracy and AUC scores, making it a reliable and interpretable option.
+2. Decision Tree: Struggled with overfitting, leading to lower overall performance.
+3. Naive Bayes and LDA: Both performed well, with LDA slightly outperforming Naive Bayes.
+4. QDA: Handled non-linear relationships better than LDA but with reduced interpretability.
+5. SVM: High accuracy and robustness, especially in high-dimensional spaces.
+6. KNN: Performed less well, highlighting limitations in higher dimensions.
+7. Kernel Logistic Regression: Computationally intensive and did not outperform simpler models.
 
 These findings suggest that while complex models like SVM and Kernel Logistic Regression offer high performance, simpler models like Logistic Regression or LDA often provide similar results with greater interpretability and lower computational cost. In a clinical setting, where interpretability is crucial, traditional methods like Logistic Regression may be preferable unless significantly improved performance justifies the additional complexity.
 
